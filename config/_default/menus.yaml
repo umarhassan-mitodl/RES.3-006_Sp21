@@ -1,0 +1,37 @@
+leftnav:
+- identifier: c3467224-c1d6-43fe-8e3b-dccdd6dae60c
+  name: About MICRO
+  pageRef: /pages/micro-initiative
+  weight: 10
+- identifier: bb4d50e1-8102-4a33-9012-9c0ba4189881
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
+  name: Mentoring Resources
+  pageRef: /pages/introduction-to-mentoring-an-undergraduate-student
+  weight: 30
+- identifier: b86f62d8-591c-4792-bf6a-b241dcfeb111
+  name: Materials Science Curriculum
+  pageRef: /pages/curriculum
+  weight: 40
+- identifier: 09cf4fcb-4d3d-4086-8250-c60791e33d90
+  name: 'Section 1: Defining a Research Project and Aligning Expectations'
+  pageRef: /pages/mentor-training-section-1-defining-a-research-project-and-aligning-expectations
+  parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
+  weight: 10
+- identifier: 5bdf2c96-3e72-4285-99dd-9897c6343383
+  name: 'Section 2: Planning and Managing Remote Research Tasks'
+  pageRef: /pages/section-2-planning-and-managing-remote-research-tasks
+  parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
+  weight: 20
+- identifier: 163d938a-365d-4588-9a32-55a854de92bb
+  name: 'Section 3: Effective and Inclusive Communication in a Remote Setup'
+  pageRef: /pages/section-3-effective-and-inclusive-communication-in-a-remote-setup
+  parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
+  weight: 30
+- identifier: 57466062-1c6b-4936-b95e-874b1fc87d27
+  name: 'Section 4: Fostering Independence'
+  pageRef: /pages/section-4-fostering-independence
+  parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
+  weight: 40
